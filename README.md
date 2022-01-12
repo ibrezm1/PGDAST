@@ -6,4 +6,8 @@ This repo contains study materials, lab records, previous year assignments and q
 1. [PGDAST: Why A Data Science Enthusiast Must Care About It](https://medium.com/@akshaychandra21/db44bb8bd4e8)
 2. [PGDAST: Frequently Asked Questions](https://medium.com/@akshaychandra21/c5be9cdb578b)
 
+### Online latest Assignment and Questionpapers
+1. [PGDAST Assignments](https://webservices.ignou.ac.in/assignments/PGDAST/)
+2. [PGDAST Questionpapers](https://webservices.ignou.ac.in/Pre-Question/)
+
 ### Good luck and happy learning!
